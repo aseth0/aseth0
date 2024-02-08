@@ -21,7 +21,7 @@ I like to apply different and creative solutions. I have a special interest in c
 | Teamwork | I love the collaboration in the knowledge of the group. | 
 | Leadership | Experience with the teamwork management. |
 
-# 📥 Contact 
+# 📥 Contact 
 Linkdlin: www.linkedin.com/in/ulises-mata-cabanillas-0224551a4
 <!--
 
