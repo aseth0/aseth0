@@ -4,7 +4,7 @@ I am currently working as a system engineer.
 Continuous student  of different languages.
 
 - 💼: System Engineer
-- 🎓: 42 Málaga
+- 🎓: 42 Málaga check in my git: [Route_42](https://github.com/aseth0/Route_42)
 
 # 🚀 About Me
 I like to apply different and creative solutions. I have a special interest in creating new projects that could help or be useful for life.
@@ -12,7 +12,7 @@ I like to apply different and creative solutions. I have a special interest in c
 ```json
 {
   "Languages": ["Python", "Bash", "JavaScript", "C"],
-  "Specialities": ["System Administration", "CEH", "Lean Management", "Linux Distributions", "Virtual environments"],
+  "Specialities": ["Systems Administration", "CEH", "Lean Management", "Linux Distributions", "Virtual environments"],
   "Interested_on": ["Microservices", "Containers"]
 }
 ```
