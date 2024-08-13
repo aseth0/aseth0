@@ -1,11 +1,10 @@
 # Hi, I'm Aseth 👋
-I'm a passionate developer🧑🏽‍💻
-But I'm not sure if I feel more comfortable as a SysAdmin 💾
-Currently working 💼 as a System Engineer
-also, I meet some of the best coding languages🧑🏽‍💻.
+A real nerd🧑🏽‍💻, passion for the IT field
+I'm currently working on my hobbies, what can I expect in life?
 
 - 💼: System Engineer
-- 🎓: 42 Málaga check in my git: [Route_42](https://github.com/aseth0/Route_42)
+- 🎓: 42 Málaga 
+  - Curious? Have a look into the [Route_42](https://github.com/aseth0/Route_42)
 
 # 🚀 About Me
 Different and creative solutions.
