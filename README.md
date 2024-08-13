@@ -1,38 +1,37 @@
 # Hi, I'm Aseth 👋
-I'm a passionate developer and system administrator
-I am currently working as a system engineer.
-Continuous student  of different languages.
+I'm a passionate developer🧑🏽‍💻
+But I'm not sure if I feel more comfortable as a SysAdmin 💾
+Currently working 💼 as a System Engineer
+also, I meet some of the best coding languages🧑🏽‍💻.
 
 - 💼: System Engineer
 - 🎓: 42 Málaga check in my git: [Route_42](https://github.com/aseth0/Route_42)
 
 # 🚀 About Me
-I like to apply different and creative solutions. I have a special interest in creating new projects that could help or be useful for life.
+Different and creative solutions.
+Systems and codes, working together in the same brain 🧠
 
 ```json
 {
-  "Languages": ["Python", "Bash", "JavaScript", "C"],
-  "Specialities": ["Systems Administration", "CEH", "Lean Management", "Linux Distributions", "Virtual environments"],
-  "Interested_on": ["Microservices", "Containers"]
-}
+  "Languages": {
+    "Fluent": ["Python", "Bash"],
+    "Proficient": ["C", "PHP", "JavaScript"],
+    "Learning": ["C", "PowerShell"]
+  },
+"System_Experiences": {
+    "OS_Mastery": {
+      "Linux_Distributions": ["Ubuntu", "CentOS", "Arch"],
+      "Windows_Server": ["2019", "2020"],
+      "Virtualization": ["Docker", "Kubernetes", "VMware"]
+    },
+"Data_Management": {
+      "Databases": ["MySQL", "PostgreSQL", "OracleSQL"],
+    },
+"Security_Arsenal": {
+      "Network_Security": ["Firewalls", "IDS/IPS"],
+      "Ethical_Hacking": ["Penetration Testing", "Vulnerability Assessment"],
+    }
 ```
-| Soft hability | Description |
-| --- | --- |
-| Teamwork | I love the collaboration in the knowledge of the group. | 
-| Leadership | Experience with the teamwork management. |
 
 # 📥 Contact 
 Linkdlin: www.linkedin.com/in/ulises-mata-cabanillas-0224551a4
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
