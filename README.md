@@ -24,7 +24,7 @@ Systems and codes, working together in the same brain 🧠
       "Virtualization": ["Docker", "Kubernetes", "VMware"]
     },
 "Data_Management": {
-      "Databases": ["MySQL", "PostgreSQL", "OracleSQL"],
+      "Databases": ["MySQL", "PostgreSQL", "OracleSQL", "Elasticsearch"],
     },
 "Security_Arsenal": {
       "Network_Security": ["Firewalls", "IDS/IPS"],
