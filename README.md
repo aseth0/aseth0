@@ -2,9 +2,8 @@
 A real nerd🧑🏽‍💻, passion for the IT field
 I'm currently working on my hobbies, what can I expect in life?
 
-- 💼: System Engineer
-- 🎓: 42 Málaga 
-  - Curious? Have a look into the [Route_42](https://github.com/aseth0/Route_42)
+- 💼: Subject Matter Expert
+- 🎓: Development and integration with AI
 
 # 🚀 About Me
 Different and creative solutions.
@@ -14,8 +13,8 @@ Systems and codes, working together in the same brain 🧠
 {
   "Languages": {
     "Fluent": ["Python", "Bash"],
-    "Proficient": ["C", "PHP", "JavaScript"],
-    "Learning": ["C", "PowerShell"]
+    "Proficient": ["C", "PHP"],
+    "Learning": ["PowerShell", "JavaScript"]
   },
 "System_Experiences": {
     "OS_Mastery": {
